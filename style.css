@@ -639,7 +639,11 @@ html, body{
 #eng_sqr_box{
     transform: scale(1.7);
 }
-
+#three{
+    background-img:url("img_3.png");
+    background-repeat:none;
+    background-size:cover;
+}
 .eng_stroke_circle{
     position: relative;
     top:-135px;
