@@ -146,7 +146,7 @@ html, body{
     top:240px;
 
 }
-.card{
+.card:hover{
     cursor:pointer;
 }
 #motion-circle{
