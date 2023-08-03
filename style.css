@@ -146,7 +146,9 @@ html, body{
     top:240px;
 
 }
-
+.card{
+    cursor:pointer;
+}
 #motion-circle{
     position: absolute;
     left:45%;
